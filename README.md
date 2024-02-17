@@ -1,4 +1,4 @@
-****UNDER CONSTRUCTION****
+**!!! UNDER CONSTRUCTION !!!**
 
 - 👋 Hi, I’m Matthew Koniecko, curator of @matek-dev
 - 👀 I’m interested in Robotics; Drones; Computer Vision; Sensor fusion; Machine Learning; SLAM; Path Planning
